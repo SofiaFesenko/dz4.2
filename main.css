@@ -1,0 +1,63 @@
+.one {
+    color: rgb(45, 124, 98);
+    font-size: 40px;
+    font-family: 'Fjalla One';
+}
+
+.two {
+    color: blueviolet;
+    font-size: 20px;
+    font-family: 'Pacifico';
+}
+
+.four {
+    color: rgb(35, 199, 199);
+    font-size: 20px;
+    font-family: 'Barlow Condensed';
+}
+
+.ei {
+    color: rgb(35, 199, 199);
+    font-size: 20px;
+    font-family: 'Barlow Condensed';
+}
+
+.sev{
+    color: rgb(45, 124, 98);
+    font-size: 40px;
+    font-family: 'Fjalla One';
+}
+
+
+.th {
+    width: 350px;
+}
+
+.five {
+    width: 400px;
+}
+
+.six {
+    width: 350px;
+}
+
+.zo {
+    width: 475px;
+    border: 4px solid gray;
+}
+.zt {
+    width: 400px;
+    border: 4px solid gray;
+}
+.zth {
+    width: 400px;
+    border: 4px solid gray;
+}
+.zf {
+    width: 400px;
+    border: 4px solid gray;
+}
+
+
+
+
